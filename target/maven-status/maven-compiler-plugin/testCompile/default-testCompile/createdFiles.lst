@@ -1,0 +1,11 @@
+com\demo\sauce\pageObjects\LoginPage.class
+com\demo\sauce\testCases\AuthTest.class
+com\demo\sauce\pageObjects\FinishOrderPage.class
+com\demo\sauce\pageObjects\BasePage.class
+com\demo\sauce\testCases\TransactionTest.class
+com\demo\sauce\pageObjects\CartPage.class
+com\demo\sauce\testBase\BaseClass.class
+com\demo\sauce\utilities\ExtentReportManager.class
+com\demo\sauce\pageObjects\CheckoutOverviewPage.class
+com\demo\sauce\pageObjects\CheckoutPage.class
+com\demo\sauce\pageObjects\ProductPage.class
